@@ -209,9 +209,22 @@ public class ArunPraveenSJ {
 
 | Project                                       | Tech Stack                              | Description                                                               |
 | --------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------- |
-| **Smart Agriculture Decision Support System** | Flutter, Firebase, TensorFlow Lite, IoT | Intelligent crop monitoring system with AI-powered disease detection      |
-| **Stay and Savour**                           | Flutter, Firebase                       | Platform connecting travelers with homestays and homemade food services   |
-| **ResearchFlow**                              | Node.js, MongoDB, React.js              | Research collaboration platform with project tracking and team management |
+
+| Project | Tech Stack | Description |
+|----------|------------|-------------|
+| **InterviewAI Coach** | React.js, Node.js, Firebase, AI APIs | AI-powered interview preparation platform with mock interviews, resume analysis, personalized feedback, and performance tracking dashboards. |
+| **RailJet** | React.js, Node.js, MongoDB | Smart railway reservation system with train search, ticket booking, seat allocation, cancellation, and real-time travel updates. |
+| **ConfigSafe** | React.js, Node.js, MongoDB, Cloud | Enterprise configuration and feature flag management platform with environment controls, audit logs, and secure deployment workflows. |
+| **Skill Market** | React.js, Node.js, MongoDB | Multi-currency freelancing and service marketplace allowing users to offer skills, manage projects, and receive international payments. |
+| **AgroSense** | Flutter, Firebase, TensorFlow Lite, IoT | Smart agriculture platform with crop recommendation, disease detection, weather monitoring, and IoT-based farm analytics. |
+| **Teacher Location Finder** | ESP32, RFID, Firebase, Flutter | IoT-based real-time teacher tracking system using RFID technology, Firebase database, and mobile dashboards. |
+| **HealthCare Chatbot** | Python, NLP, Flask, AI | AI-powered healthcare assistant providing symptom analysis, health recommendations, and appointment guidance. |
+| **Missing Person Detection System** | Python, OpenCV, TensorFlow | Face recognition system that identifies missing individuals using deep learning and image processing techniques. |
+| **ResearchFlow** | React.js, Node.js, MongoDB | Research collaboration platform supporting project management, citation tracking, document sharing, and team collaboration. |
+| **Smart Agriculture Decision Support System** | React.js, Node.js, Firebase, AI/ML | Full-stack agriculture platform offering soil analysis, crop recommendations, weather insights, and multilingual support. |
+| **Stay & Savour (Living Spoon)** | Flutter, Firebase | Community platform connecting students, homeowners, and homemakers for accommodation and homemade food services. |
+| **Online Shopping System** | React.js, Node.js, MongoDB | E-commerce platform with product management, cart functionality, order tracking, payment integration, and admin dashboard. |
+
 
 </div>
 
