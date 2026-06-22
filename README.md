@@ -244,6 +244,7 @@ public class ArunPraveenSJ {
 | HP LIFE Social Media Marketing            | HP LIFE                    |
 | AI for Beginners & Business Professionals | AI Certification           |
 | Data Labeling Job Simulation              | Forage                     |
+| Data Analystic                            | Cisco                      |
 
 </div>
 
@@ -253,7 +254,7 @@ public class ArunPraveenSJ {
 
 | Degree                               | Institution               | Year        | CGPA      |
 | ------------------------------------ | ------------------------- | ----------- | --------- |
-| B.E Computer Science and Engineering | SNS College of Technology | 2023 - 2027 | 7.33 / 10 |
+| B.E Computer Science and Engineering | SNS College of Technology | 2023 - 2027 | 7.48 / 10 |
 
 ---
 
