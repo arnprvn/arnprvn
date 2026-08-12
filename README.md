@@ -254,7 +254,7 @@ public class ArunPraveenSJ {
 
 | Degree                               | Institution               | Year        | CGPA      |
 | ------------------------------------ | ------------------------- | ----------- | --------- |
-| B.E Computer Science and Engineering | SNS College of Technology | 2023 - 2027 | 7.48 / 10 |
+| B.E Computer Science and Engineering | SNS College of Technology | 2023 - 2027 | 7.53 / 10 |
 
 ---
 
