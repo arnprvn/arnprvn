@@ -1,12 +1,13 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ARUN%20PRAVEEN%20SJ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ARUN%20PRAVEEN%20SJ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Oracle%20Fusion%20HCM&descAlignY=62&descSize=16"/>
+
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Computer+Science+Engineer;Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Scalable+Web+%26+Mobile+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Computer+Science+Engineer;Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Scalable+Web+%26+Mobile+Applications;Oracle+Fusion+HCM" />
 
 </div>
 
@@ -34,7 +35,8 @@ public class ArunPraveenSJ {
         "Advanced MERN Stack",
         "Cloud Computing",
         "Artificial Intelligence",
-        "Data Analytics"
+        "Data Analytics",
+        "Oracle Fusion HCM"
     };
 
     String funFact =
@@ -76,6 +78,13 @@ public class ArunPraveenSJ {
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+## Enterprise Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Oracle_Fusion_HCM-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-FF0000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 
 ## Frameworks
@@ -265,12 +274,14 @@ public class ArunPraveenSJ {
 * Cloud Computing
 * Data Analytics
 * Scalable Mobile Application Development
+* Oracle Fusion HCM
 
 ---
 
 # 🎯 Interests
 
 * Full Stack Development
+* Oracle Fusion HCM
 * Artificial Intelligence
 * Data Analytics
 * Mobile App Development
